@@ -195,7 +195,7 @@ input[type=submit] {
     font-size: 22px;
   }
 
-  @media (max-width: 979px) {
+  @media (max-width: 981px) {
   
   #content {
     position: center;
